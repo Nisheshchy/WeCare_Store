@@ -56,4 +56,4 @@ python main.py
 
 ## Author
 
-Nishesh Tharu
+Nishesh Chaudhary
